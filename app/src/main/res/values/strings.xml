@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="first">This is the first screen. Welcome!</string>
+    <string name="next">Next</string>
+    <string name="second">This is the second screen. Keep going!</string>
+    <string name="third">This is the third screen. Do not stop!</string>
+    <string name="fourth">This is the fourth screen. Go ahead!</string>
+    <string name="fifth">This is the fifth screen. You finished!</string>
+    <string name="returnToStart">Click on button to start again.</string>
+
 </resources>
