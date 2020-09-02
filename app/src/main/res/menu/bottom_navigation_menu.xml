@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_copyright"
+        android:icon="@drawable/baseline_copyright_black_24dp"
+        android:title="@string/copyright" />
+    <item
+        android:id="@+id/page_invalids"
+        android:icon="@drawable/baseline_accessible_forward_black_24dp"
+        android:title="@string/invalids" />
+    <item
+        android:id="@+id/page_memes"
+        android:icon="@drawable/baseline_trending_up_black_24dp"
+        android:title="@string/memes" />
+</menu>

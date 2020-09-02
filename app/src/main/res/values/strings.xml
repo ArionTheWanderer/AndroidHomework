@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">Android</string>
+    <string name="app_name">BNV</string>
+    <string name="copyright">Copyright</string>
+    <string name="invalids">Invalids</string>
+    <string name="memes">Memes</string>
+    <string name="copyright_tv">ЭТОТ ДОМ ЗАПРИВАЧИН</string>
+    <string name="FAB">Add an invalid</string>
+    <string name="dialog_message">Add a new invalid!</string>
+    <string name="dialog_name_inv">Name:</string>
+    <string name="dialog_disease_inv">Disease:</string>
+    <string name="dialog_disease_number">Number:</string>
+    <string name="dialog_btn_add">Add</string>
+    <string name="dialog_btn_cancel">Cancel</string>
 </resources>
